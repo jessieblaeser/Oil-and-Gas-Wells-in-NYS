@@ -4,9 +4,9 @@ This is the Github repository for our article on abandoned wells in New York Sta
 
 [wells_1860.ipynb](https://github.com/ilenapeng/wells/blob/main/wells_1860.ipynb) & [wells_abandoned.ipynb](https://github.com/ilenapeng/wells/blob/main/wells_abandoned.ipynb): The script for our data analysis
 
-graphics: Contains the charts included in the article, along with the R script for generating them
+graphics: Charts included in the article and the R script for generating them
 
-[data_raw](https://github.com/ilenapeng/wells/tree/main/data_raw): Contains the raw data from the New York State Department of Environmental Conservation, Division of Mineral Resources, via Open Data NY used in this analysis
+[data_raw](https://github.com/ilenapeng/wells/tree/main/data_raw): Raw data for this analysis from the New York State Department of Environmental Conservation, Division of Mineral Resources via Open Data NY
 
 * [wells_1860.csv](https://github.com/ilenapeng/wells/blob/main/data_raw/wells_1860.csv) — [Oil, Gas, & Other Regulated Wells: Beginning 1860](https://data.ny.gov/Energy-Environment/Oil-Gas-Other-Regulated-Wells-Beginning-1860/szye-wmt3). Is updated daily, our download is from October 5 
 * [wells_abandoned.csv](https://github.com/ilenapeng/wells/blob/main/data_raw/wells_abandoned.csv) —  [Abandoned Wells](https://data.ny.gov/Energy-Environment/Abandoned-Wells/vgue-bamz). Is updated annually, documents abandoned and unplugged oil & gas wells 
