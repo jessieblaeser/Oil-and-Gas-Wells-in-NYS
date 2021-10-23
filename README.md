@@ -4,7 +4,7 @@ This is the Github repository for our article on abandoned wells in New York Sta
 
 [wells_1860.ipynb](https://github.com/ilenapeng/wells/blob/main/wells_1860.ipynb) & [wells_abandoned.ipynb](https://github.com/ilenapeng/wells/blob/main/wells_abandoned.ipynb): The script for our data analysis
 
-graphics: Charts included in the article and the R script for generating them
+[graphics](https://github.com/ilenapeng/wells/tree/main/graphics): Charts included in the article and the R script for generating them
 
 [data_raw](https://github.com/ilenapeng/wells/tree/main/data_raw): Raw data for this analysis from the New York State Department of Environmental Conservation, Division of Mineral Resources via Open Data NY
 
