@@ -57,7 +57,7 @@ p_abdn <-
   plot_theme + theme (plot.title=element_markdown(face="bold", size=16), axis.text=element_blank(), axis.title.x=element_blank())
 
 print(p_abdn)
-ggsave("map_abandoned.png", width=9, height=6, unit="in")
+ggsave("map.png", width=9, height=6, unit="in")
 
 ########### Dot plot of unplugged and abandoned vs active wells
 #Merge these two datasets
@@ -101,6 +101,7 @@ print(p_abdn_active)
 ggsave("abdn_active.png", width=9, height=6, unit="in")
 
 ### Timespan chart
+#Ordered by mean, removed because decided to order by median: counties <- c("Allegany", "Cattaraugus", "Steuben", "Genesee", "Erie", "Chautauqua", "Wyoming")
 counties <- c("Cattaraugus", "Allegany",  "Genesee", "Steuben", "Erie", "Chautauqua", "Wyoming")
 
 plt_counties <- timespan %>% filter(County %in% counties)
@@ -123,3 +124,5 @@ p_timespan <- plt_counties %>%
 
 print(p_timespan)
 ggsave("timespan.png",  width=11, height=8, unit="in")
+
+
