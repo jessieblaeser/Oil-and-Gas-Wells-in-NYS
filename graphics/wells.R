@@ -51,7 +51,7 @@ p_abdn <-
   annotate("text", x = -80.3, y = 43.8, hjust=0, label = "Cattaraugus County has the most\nactive wells in New York") +
   theme_void() +
   labs(
-    title="Western New York is the region of concern - for both<br><span style='color:#3FA62E'>abandoned & unplugged</span> and <span style='color:#562399'>active</span> wells", 
+    title="Western New York is the region of interest for both<br><span style='color:#3FA62E'>abandoned & unplugged</span> and <span style='color:#562399'>active</span> wells", 
     subtitle="Documented abandoned & unplugged and active wells in New York",
     caption="Data from NY State Department of Environmental Conservation via NY Open Data\nGraphic by Ilena Peng") +
   plot_theme + theme (plot.title=element_markdown(face="bold", size=16), axis.text=element_blank(), axis.title.x=element_blank())
@@ -116,7 +116,7 @@ p_timespan <- plt_counties %>%
   annotate("text", x = 36, y = 6.5, hjust=0, label = "34 years is the median for Cattaraugus County, which means half of the\ncounty's wells were recorded as being plugged 34 years after their completion") +
   stat_summary(fun="median", geom="point", shape=124, size=8, color="#414A12") +
   labs(
-    title="Most of NY's plugged wells were plugged 20 to 30 years after their initial completion,\n in line with a well's typical lifespan, but some remained unplugged much longer",
+    title="Most of NY's plugged wells were plugged 20 to 30 years after their initial completion, in\nline with a well's recommended lifespan, but some have remained unplugged much longer",
     subtitle="Years between well completion and plugging in counties that had over 100 wells with recorded dates",
     caption="Data from NY State Department of Environmental Conservation via NY Open Data\nGraphic by Ilena Peng",
     x="Years"
