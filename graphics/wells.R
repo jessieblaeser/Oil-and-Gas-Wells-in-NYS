@@ -16,7 +16,7 @@ active <- read_csv('https://raw.githubusercontent.com/ilenapeng/wells/main/data_
 active <- active[ -c(1) ]
 # Active well counts, by county & drop index column
 active_ct <- read_csv('https://raw.githubusercontent.com/ilenapeng/wells/main/data_output/active.csv')
-active_ct <- active[ -c(1) ]
+active_ct <- active_ct[ -c(1) ]
 # Time between completed and plugged
 timespan <- read_csv('https://raw.githubusercontent.com/ilenapeng/wells/main/data_output/timespan.csv')
 timespan <- timespan[ -c(1) ]
@@ -61,7 +61,7 @@ ggsave("map.png", width=9, height=6, unit="in")
 
 ########### Dot plot of unplugged and abandoned vs active wells
 #Merge these two datasets
-abdn_active <- full_join(unplug_abdn, active, by = c("county" = "County"))
+abdn_active <- full_join(unplug_abdn, active_ct, by = c("county" = "County"))
 abdn_active = rename(abdn_active,c("abandon"="count","active"="Ct"))
 #replace NAs with 0
 abdn_active[is.na(abdn_active)] <- 0
