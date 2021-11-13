@@ -45,13 +45,13 @@ merge <- ny %>% full_join(unplug_abdn, by = c("NAME" = "county"))
 p_abdn <-
   ggplot() +
   geom_sf(data=merge, fill="white", color="#DCDCDC") +
-  geom_point(data=active, aes(x=SurfaceLongitude, y=SurfaceLatitude), alpha=0.1, size=0.05, color="#36C9C6") +
-  geom_point(data=abandoned, aes(x=`SURFACE LONGITUDE`, y=`SURFACE LATITUDE`), alpha=0.2, size=0.05, color="#E3655B") +
+  geom_point(data=active, aes(x=SurfaceLongitude, y=SurfaceLatitude), alpha=0.1, size=0.05, color="#999999") +
+  geom_point(data=abandoned, aes(x=`SURFACE LONGITUDE`, y=`SURFACE LATITUDE`), alpha=0.2, size=0.1, color="#E3655B") +
   annotate("text", x = -78.5, y = 41.25, hjust=0, label = "Allegany County has the most\nabandoned and unplugged\nwells in New York") +
   annotate("text", x = -80.3, y = 43.8, hjust=0, label = "Cattaraugus County has the most\nactive wells in New York") +
   theme_void() +
   labs(
-    title="Western New York is the region of interest for both<br><span style='color:#E3655B'>abandoned & unplugged</span> and <span style='color:#36C9C6'>active</span> wells", 
+    title="Western New York is the region of interest for both<br><span style='color:#E3655B'>abandoned & unplugged</span> and <span style='color:#999999'>active</span> wells", 
     subtitle="Documented abandoned & unplugged and active wells in New York",
     caption="Data from NY State Department of Environmental Conservation via NY Open Data\nGraphic by Ilena Peng") +
   plot_theme + theme (plot.title=element_markdown(face="bold", size=16), axis.text=element_blank(), axis.title.x=element_blank())
@@ -81,7 +81,7 @@ gather <- gather(for_plt, "type", "count", -county)
 gather$type = factor(gather$type, levels = c('abandon', 'active'))
 gather$county = factor(gather$county, levels = c('Other counties', 'Oneida', 'Wyoming', 'Tompkins', 'Ontario', 'Oswego', 'Chautauqua', 'Erie', 'Steuben', 'Cattaraugus', 'Allegany'))
 
-plt_abdnactive <- gather %>% 
+p_abdnactive <- gather %>% 
   mutate(type = fct_rev(factor(type, levels=c('abandon','active')))) %>% 
   ggplot(aes(y=county, x=count, fill=type)) +
   geom_bar(position="dodge", stat="identity") +
@@ -89,7 +89,7 @@ plt_abdnactive <- gather %>%
   annotate("text", x = 2200, y = 10.75, hjust=0, label = "Allegany County now has more abandoned\nand unplugged wells than active ones") +
   annotate("text", x = 3700, y = 5.75, hjust=1, label = "Meanwhile, oil production has largely shifted\nto Chautauqua County, which has over 4,000\nactive wells and relatively few unplugged wells") +
   labs (
-    title="<span style='color:#E3655B'>Unplugged</span> wells in Allegany County, former seat of New York oil<br>industry, now exceed number of <span style='color:#DCDCDC'>active</span> wells",
+    title="<span style='color:#E3655B'>Unplugged</span> wells in Allegany County, former seat of New York oil<br>industry, now exceed number of <span style='color:#999999'>active</span> wells",
     subtitle="Abandoned & unplugged and active wells in New York counties with more than 50 abandoned wells",
     caption="Data from NY State Department of Environmental Conservation via NY Open Data\nGraphic by Ilena Peng",
     x="Number of wells"
@@ -98,7 +98,7 @@ plt_abdnactive <- gather %>%
   plot_theme +
   theme(legend.position="none", plot.title=element_markdown(face="bold", size=16, lineheight = 1.2))
 
-print(plt_abdnactive)
+print(p_abdnactive)
 ggsave("abdn_active.png", width=9, height=7, unit="in")
 
 ### Timespan chart
@@ -125,5 +125,3 @@ p_timespan <- plt_counties %>%
 
 print(p_timespan)
 ggsave("timespan.png",  width=11, height=9, unit="in")
-
-
