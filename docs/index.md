@@ -146,7 +146,7 @@ In the winter, former oil roads on his parents’ land became snowmobile tracks.
     <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpg?raw=true" width="30%" /> 
     <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/bolivargas.jpg?raw=true" width="30%" /> 
 </p>
-<p style="text-align: center;"><em>The Pioneer Oil Museeum (left) and Bolivar Gas Pump (right). The local brand's oil refinery was less than 2 miles from the museum. | Courtesy of Dan Davison</em></p>
+<p style="text-align: center;"><em>The Pioneer Oil Museeum (left) and Bolivar Gas Pump (right) | Courtesy of Dan Davison</em></p>
 
 Davison said he grew up on a 42-acre property containing roughly a hundred wells. In his lifetime, he estimates that he has seen between 500 and 700 different wells across the state.
 
