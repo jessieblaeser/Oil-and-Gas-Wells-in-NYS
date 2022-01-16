@@ -167,4 +167,4 @@ Locating wells does not equate to plugging them, and as the DEC searches, costs 
 
 *Of the total 31,185 oil, gas and storage wells in this dataset, only 4,476 wells had dates for both well completion and plugging. 52 of the rows had negative numbers because the date of plugging was recorded as earlier than the date of completion. These were omitted from the analysis. A DEC spokesperson said this may be because dry wells were never marked as completed for production, but were later noted as complete after the well was plugged. This could also be because wells were re-entered for further development after originally being plugged, they said.*
 
-*The calculations and data for this analysis are available on [GitHub](https://github.com/ilenapeng/wells).
+*The calculations and data for this analysis are available on [GitHub](https://github.com/ilenapeng/wells).*
