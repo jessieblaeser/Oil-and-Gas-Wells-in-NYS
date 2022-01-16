@@ -137,10 +137,7 @@ In the meantime, the museum documents the oil industry’s influence on the town
 
 In the winter, former oil roads on his parents’ land became snowmobile tracks. In the summer, Davison would wander off in search of signs of the former oil industry: open wells, wells with pumping equipment on them and old engines — all sites now defined as [abandoned and unplugged oil wells](https://www.dec.ny.gov/energy/1551.html) by the Department of Mineral Services, the division of the DEC charged with regulating and plugging oil and gas wells in the state. 
 
-<p float="left">
-  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/bolivargas.jpg?raw=true" max-width="300"/>
-  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpg?raw=true" max-width="300"/> 
-</p>
+![alt](https://github.com/ilenapeng/wells/blob/main/docs/photos/bolivargas.jpg?raw=true) | ![alt](https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpg?raw=true)
 *The Pioneer Oil Museeum (left) and Bolivar Gas Pump (right). The local brand's oil refinery was less than 2 miles from the museum.
 l | Courtesy of Dan Davison*
 
