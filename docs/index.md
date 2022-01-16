@@ -1,3 +1,7 @@
+---
+title: nil
+---
+
 ### Abandoned but not forgotten: New York’s once-booming oil industry and the wells it left behind
 
 *Western New York towns were built around oil production. Now, they grapple with abandoned wells — the remnants of an industry in decline.*
