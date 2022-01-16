@@ -4,8 +4,6 @@ name: null
 ---
 
 <style>
-@import "{{ site.theme }}";
-
 h1 {
   display: none;
 }
