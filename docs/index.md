@@ -57,7 +57,8 @@ According to the [EPA](https://www.epa.gov/sites/default/files/2018-04/documents
 
 The consequences of orphaned unplugged wells mount year by year, as they are known to leak oil, saline water and other fluids as well as gases into the air. According to a [2021 report](https://online.ucpress.edu/elementa/article/9/1/00161/116782/Orphaned-oil-and-gas-well-stimulus-Maximizing) from Policy Bridge, the impacts of leakage include “air pollution, greenhouse gas emissions, groundwater contamination, soil degradation, damage to ecosystems, and risk of explosions, all of which pose threats to human health.”
 
-TK photo
+![Image of an abandoned wel](https://github.com/ilenapeng/wells/blob/main/docs/photos/abandonedwell1.jpg)
+*An abandoned well | Courtesy of Walter Hang*
 
 Plants and Goodwin represent one of the many private companies that are contracted by states or other oil companies to plug wells in the northeastern corridor of the U.S. Paul, who lives on the same nearly 250-acre farm he grew up on, said contractors also plugged the 80 abandoned wells on his own land in Pennsylvania’s McKean County, which is adjacent to Allegany County. 
 
@@ -79,7 +80,8 @@ In the early 1990s, Hang founded [Toxics Targeting](https://www.toxicstargeting.
 
 “You can literally walk around, and you can see the abandoned well casings. You can see the infrastructure,” Hang said of his time in the field. “It was just unbelievable how much contamination was obvious to the naked eye.”
 
-TK IMAGE
+![Image of an abandoned well](https://github.com/ilenapeng/wells/blob/main/docs/photos/abandonedwell2.jpg)
+*An abandoned well | Courtesy of Walter Hang*
 
 In 2013, the [New York Works Well Plugging Initiative](https://www.dec.ny.gov/energy/111211.html) allocated $2 million to the DEC to plug orphaned and abandoned wells. But at the current pace, it would take the DEC roughly 145 years just to plug all documented abandoned wells in the state, let alone the tens of thousands of wells yet to be located. 
 
@@ -137,6 +139,8 @@ In the winter, former oil roads on his parents’ land became snowmobile tracks.
   <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/bolivargas.jpg" width="100" />
   <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpg" width="100" /> 
 </p>
+*The Pioneer Oil Museeum (left) and Bolivar Gas Pump (right). The local brand's oil refinery was less than 2 miles from the museum.
+l | Courtesy of Dan Davison*
 
 Davison said he grew up on a 42-acre property containing roughly a hundred wells. In his lifetime, he estimates that he has seen between 500 and 700 different wells across the state.
 
