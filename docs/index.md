@@ -8,7 +8,6 @@ h1 {
   display: none;
 }
   
-img {text-align: center;}
 </style>
 
 ### Abandoned but not forgotten: New York’s once-booming oil industry and the wells it left behind
@@ -29,7 +28,9 @@ Plants’ son and grandson took over the business and continue that work today. 
 
 Allegany County, the former seat of oil production in New York State, now has more abandoned and unplugged wells than active wells. Left open and unchecked, [unplugged wells can cause air pollution, contaminate water and release greenhouse gas](https://www.edf.org/orphanwellmap). Plugging documented and undocumented abandoned wells could cost over a billion dollars. But oil companies and environmental advocates alike say state resources have already fallen short. 
 
+<p style="text-align: center;">
 <img style="max-width:80%" src="https://github.com/ilenapeng/wells/blob/0ee9a1ea19af2c1837c24d2e557c7b9515957ad3/graphics/abdn_active.png?raw=true">
+</p>
 
 Though states like Texas and New Mexico are the modern hubs for U.S. domestic drilling,  western New York is home to some of the country’s first oil wells. At its peak in 1882, New York State produced [6.7 million barrels of oil](https://www.dec.ny.gov/docs/materials_minerals_pdf/dgeisv1ch4.pdf), more than 6 million of which came from a single county: Allegany.
 
@@ -43,7 +44,9 @@ According to [data](https://data.ny.gov/Energy-Environment/Abandoned-Wells/vgue-
 
 Despite these risks, the local government of Allegany County is not overly concerned with the wells’ impact. According to Michelle Denhoff, the assistant director of economic development and planning for Allegany County, the topic rarely comes up in committee meetings, if ever.
 
+<p style="text-align: center;">
 <img style="max-width-80%" src="https://github.com/ilenapeng/wells/blob/main/graphics/map.png?raw=true">
+</p>
 
 This problem is not unique to New York. While oil drilling in the U.S. began in the nineteenth century, regulation did not appear until the early to mid twentieth century. The result is hundreds of thousands of abandoned and orphaned oil wells, left behind by drilling companies that have since closed production.
 
@@ -79,9 +82,9 @@ In the early 1990s, Hang founded [Toxics Targeting](https://www.toxicstargeting.
 
 “You can literally walk around, and you can see the abandoned well casings. You can see the infrastructure,” Hang said of his time in the field. “It was just unbelievable how much contamination was obvious to the naked eye.”
 
-<p float="left">
-  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/abandonedwell1.jpg?raw=true" max-width="300"/>
-  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/abandonedwell2.jpg?raw=true" max-width="300"/> 
+<p style="text-align: center;">
+  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/abandonedwell1.jpg?raw=true" max-width="30%"/>
+  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/abandonedwell2.jpg?raw=true" max-width="30%"/> 
 </p>
 *Abandoned wells | Courtesy of Walter Hang*
 
@@ -127,7 +130,9 @@ As Behan and other environmentalists see it, sometimes solving one environmental
 
 On average, the time between a well being completed and being plugged in New York State is 30 years, which is in line with the average lifespan of a well, according to the [Canadian Association of Petroleum Producers](https://www.capp.ca/explore/life-cycle-of-a-well/). In Cattaraugus County, the median time between a well’s completion and plugging was 34 years — which means the times for half of the county’s wells in the state were under 34, while the other half was above that amount. In Allegany County, the median time was 26 years. But some wells remain open, unplugged and inactive for much longer. One well in Oswego County, which borders Lake Ontario, was completed in 1890 and was plugged in 2019 — a 129-year lifespan.
 
+<p style="text-align: center;">
 <img style="max-width:80%" src="https://github.com/ilenapeng/wells/blob/main/graphics/timespan.png?raw=true">
+</p>
 
 New technologies are being [developed](https://www.capp.ca/explore/life-cycle-of-a-well/) in hopes of extending the lifespans of these wells. Some companies, like Diversified Energy Co. — which has amassed more wells than Exxon Mobil — purchases and resurrects formerly abandoned wells, arguing that the wells have decades left in their life cycle, according to an investigation conducted by Bloomberg. 
 
@@ -137,9 +142,11 @@ In the meantime, the museum documents the oil industry’s influence on the town
 
 In the winter, former oil roads on his parents’ land became snowmobile tracks. In the summer, Davison would wander off in search of signs of the former oil industry: open wells, wells with pumping equipment on them and old engines — all sites now defined as [abandoned and unplugged oil wells](https://www.dec.ny.gov/energy/1551.html) by the Department of Mineral Services, the division of the DEC charged with regulating and plugging oil and gas wells in the state. 
 
-![alt](https://github.com/ilenapeng/wells/blob/main/docs/photos/bolivargas.jpg?raw=true) | ![alt](https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpg?raw=true)
-*The Pioneer Oil Museeum (left) and Bolivar Gas Pump (right). The local brand's oil refinery was less than 2 miles from the museum.
-l | Courtesy of Dan Davison*
+<p style="text-align: center;">
+<img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/bolivargas.jpg?raw=true" width="30%" /> 
+<img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpg?raw=true" width="30%" /> 
+</p>
+*The Pioneer Oil Museeum (left) and Bolivar Gas Pump (right). The local brand's oil refinery was less than 2 miles from the museum. | Courtesy of Dan Davison*
 
 Davison said he grew up on a 42-acre property containing roughly a hundred wells. In his lifetime, he estimates that he has seen between 500 and 700 different wells across the state.
 
