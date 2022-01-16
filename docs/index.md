@@ -137,7 +137,7 @@ In the winter, former oil roads on his parents’ land became snowmobile tracks.
 
 <p float="left">
   <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/bolivargas.jpg" width="100" />
-  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpgg" width="100" /> 
+  <img src="https://github.com/ilenapeng/wells/blob/main/docs/photos/pioneeroilmuseum.jpg" width="100" /> 
 </p>
 
 Davison said he grew up on a 42-acre property containing roughly a hundred wells. In his lifetime, he estimates that he has seen between 500 and 700 different wells across the state.
