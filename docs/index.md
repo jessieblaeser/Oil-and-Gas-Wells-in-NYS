@@ -1,3 +1,7 @@
+---
+title: nil
+---
+
 ### Abandoned but not forgotten: New York’s once-booming oil industry and the wells it left behind
 
 *Western New York towns were built around oil production. Now, they grapple with abandoned wells — the remnants of an industry in decline.*
@@ -137,10 +141,10 @@ Locating wells does not equate to plugging them, and as the DEC searches, costs 
 “This problem is not going to go away,” Paul Plants said. “It should have been taken care of 50 years ago, and for every year that it waits now, a well that could have been plugged safely at a cheaper rate.”
 
 ### Methodology
-The data in this story is from the New York State Department of Environmental Conservation, Division of Mineral Resources via Open Data NY. We looked at two datasets in particular. The [first dataset](https://data.ny.gov/Energy-Environment/Abandoned-Wells/vgue-bamz) on abandoned and unplugged wells is updated annually. Counts of abandoned and unplugged wells in this story did not include wells with a “UM” designation, which were wells that the DEC could not locate. The remaining wells in the dataset were either located by the DEC or by other entities, like a construction project coming across a well.
+*The data in this story is from the New York State Department of Environmental Conservation, Division of Mineral Resources via Open Data NY. We looked at two datasets in particular. The [first dataset](https://data.ny.gov/Energy-Environment/Abandoned-Wells/vgue-bamz) on abandoned and unplugged wells is updated annually. Counts of abandoned and unplugged wells in this story did not include wells with a “UM” designation, which were wells that the DEC could not locate. The remaining wells in the dataset were either located by the DEC or by other entities, like a construction project coming across a well.*
 
-The [second dataset](https://data.ny.gov/Energy-Environment/Oil-Gas-Other-Regulated-Wells-Beginning-1860/szye-wmt3) on all regulated wells in the state beginning in 1860 is updated daily; our analysis was done using the data downloaded on October 5, 2021. This dataset was filtered to only include three types of wells: gas wells, oil wells and storage wells, which are used to store gas underground. Other types of wells, like brine wells that collect salt, were not counted. Dry holes that don’t produce enough oil or gas for companies to complete their construction, were also omitted from our counts.
+*The [second dataset](https://data.ny.gov/Energy-Environment/Oil-Gas-Other-Regulated-Wells-Beginning-1860/szye-wmt3) on all regulated wells in the state beginning in 1860 is updated daily; our analysis was done using the data downloaded on October 5, 2021. This dataset was filtered to only include three types of wells: gas wells, oil wells and storage wells, which are used to store gas underground. Other types of wells, like brine wells that collect salt, were not counted. Dry holes that don’t produce enough oil or gas for companies to complete their construction, were also omitted from our counts.*
 
-Of the total 31,185 oil, gas and storage wells in this dataset, only 4,476 wells had dates for both well completion and plugging. 52 of the rows had negative numbers because the date of plugging was recorded as earlier than the date of completion. These were omitted from the analysis. A DEC spokesperson said this may be because dry wells were never marked as completed for production, but were later noted as complete after the well was plugged. This could also be because wells were re-entered for further development after originally being plugged, they said. 
+*Of the total 31,185 oil, gas and storage wells in this dataset, only 4,476 wells had dates for both well completion and plugging. 52 of the rows had negative numbers because the date of plugging was recorded as earlier than the date of completion. These were omitted from the analysis. A DEC spokesperson said this may be because dry wells were never marked as completed for production, but were later noted as complete after the well was plugged. This could also be because wells were re-entered for further development after originally being plugged, they said.*
 
-The calculations and data for this analysis are available on [GitHub](https://github.com/ilenapeng/wells).
+*The calculations and data for this analysis are available on [GitHub](https://github.com/ilenapeng/wells).
