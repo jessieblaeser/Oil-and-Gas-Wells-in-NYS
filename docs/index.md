@@ -1,12 +1,12 @@
 ---
-name: New York's Abandoned Wells
-title: null
+title: New York's Abandoned Wells
+name: null
 ---
 
 <style>
 @import "{{ site.theme }}";
 
-header {
+h1 {
   display: none;
 }
 </style>
