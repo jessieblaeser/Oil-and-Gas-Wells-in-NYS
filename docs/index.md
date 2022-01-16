@@ -1,6 +1,5 @@
 ---
-name: New York's Abandoned Wells
-title: null
+title: New York's Abandoned Wells
 ---
 
 ### Abandoned but not forgotten: New York’s once-booming oil industry and the wells it left behind
