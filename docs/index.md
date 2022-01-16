@@ -26,7 +26,7 @@ Faced with both declining output and shifting opinions on oil and gas in New Yor
 
 Plants’ son and grandson took over the business and continue that work today. “The vast majority of the work that we do is plugging and abandonment of wells,” Steve said. 
 
-Allegany County, the former seat of oil production in New York State, now has more abandoned and unplugged wells than active wells. Left open and unchecked, [unplugged wells can cause air pollution, contaminate water and release greenhouse gas](https://www.edf.org/orphanwellmap). Plugging documented and undocumented abandoned wells could cost over a billion dollars. But oil companies and environmental advocates alike say state resources have already fallen short. 
+Allegany County, the former seat of oil production in New York State, now has more abandoned and unplugged wells than active wells. Left open and unchecked, [unplugged wells can cause air pollution, contaminate water and release greenhouse gas](https://www.edf.org/orphanwellmap). But oil companies and environmental advocates alike say state resources have already fallen short. 
 
 <p style="text-align: center;">
 <img style="max-width:80%" src="https://github.com/ilenapeng/wells/blob/0ee9a1ea19af2c1837c24d2e557c7b9515957ad3/graphics/abdn_active.png?raw=true">
