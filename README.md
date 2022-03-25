@@ -1,6 +1,6 @@
 # Abandoned Wells in New York State
 
-This is the Github repository for our article on abandoned wells in New York State. The contents of the repository are as follows:
+This is the Github repository for our article on abandoned wells in New York State. This is a forked version of the original repository created by my reporting partner, Ilena Peng ([link here](https://github.com/ilenapeng/wells)). The contents of this repo have been updated and reanalyzed as of March 25, 2022. Contents include: 
 
 [NYS Wells 1860 - Present.ipynb](https://github.com/jessieblaeser/wells/blob/4bc3152fdc93d7a553f0d062d034dae2d2e084cc/NYS%20Wells%201860%20-%20Present.ipynb) & [Orphaned wells in NYS.ipynb](https://github.com/jessieblaeser/wells/blob/4bc3152fdc93d7a553f0d062d034dae2d2e084cc/Orphaned%20wells%20in%20NYS.ipynb): The script for our data analysis
 
